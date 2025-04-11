@@ -1,9 +1,12 @@
 # BigVigenere
 Codigo BigVigenere, Laboratorio 1 EDA
-import java.io.*;
-import java.util.Scanner;
 
-public class BigVigenere {
+
+
+    import java.io.*;
+    import java.util.Scanner;
+
+    public class BigVigenere {
     private int[] key;
     private final char[][] alphabet;
 
